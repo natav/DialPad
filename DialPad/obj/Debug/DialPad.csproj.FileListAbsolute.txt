@@ -1,0 +1,6 @@
+C:\Development\DialPad\DialPad\bin\Debug\DialPad.exe.config
+C:\Development\DialPad\DialPad\bin\Debug\DialPad.exe
+C:\Development\DialPad\DialPad\bin\Debug\DialPad.pdb
+C:\Development\DialPad\DialPad\obj\Debug\DialPad.csprojResolveAssemblyReference.cache
+C:\Development\DialPad\DialPad\obj\Debug\DialPad.exe
+C:\Development\DialPad\DialPad\obj\Debug\DialPad.pdb
